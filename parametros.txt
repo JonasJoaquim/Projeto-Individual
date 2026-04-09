@@ -1,0 +1,3 @@
+declividade_maxima=0.08
+largura_pista=7
+fator_terraplanagem=1.2
